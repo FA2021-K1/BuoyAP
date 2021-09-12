@@ -9,4 +9,9 @@ Current Status:-<br/>
 Access point working<br/>
 Docker working<br/>
 
-Should only work on 16gb or bigger SD cards for now. 
+Should only work on 16gb or bigger SD cards for now. <br/><br/>
+
+Link for the bootable img file:- <br/>
+todo <br/>
+
+Try flashing with Balena Etcher. With Raspberry Pi imager, it is 
