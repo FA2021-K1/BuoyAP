@@ -3,7 +3,8 @@ An ubuntu server 20.04 bootable image for Raspberry Pi with Buoy configurations 
 
 For now:-<br/>
 Access Point : BuoyAP <br/>
-Password : drone@12 <br/><br/>
+Password : drone@12 <br/>
+IP: 192.168.10.50<br/>
 
 Current Status:-<br/>
 Access point working<br/>
@@ -21,6 +22,6 @@ Don't worry, just wait it will finish eventually.<br/>
 If it is giving problems, extract the .gz file and flash the .img file.
 Also delete the Android and LOST.DIR folder from the system-boot folder. Will fix that in the later release.<br/><br/>
 
-Also, if you want to ssh it, use LAN. Because Wifi will not work as it is being used for AP mode. (Password: raspberry)
+Also, if you want to ssh it, use BuoyAP access point. (Password: raspberry, username: ubuntu)
 
 path to file: /etc/netplan/10-my-config.yaml
