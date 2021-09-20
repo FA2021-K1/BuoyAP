@@ -3,7 +3,7 @@ An ubuntu server 20.04 bootable image for Raspberry Pi with Buoy configurations 
 
 For now:-<br/>
 Access Point : BuoyAP <br/>
-Password : drone@1234 <br/><br/>
+Password : drone@12 <br/><br/>
 
 Current Status:-<br/>
 Access point working<br/>
