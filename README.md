@@ -22,3 +22,4 @@ Also delete the Android and LOST.DIR folder from the system-boot folder. Will fi
 
 Also, if you want to ssh it, use LAN. Because Wifi will not work as it is being used for AP mode. (Password: raspberry)
 
+path to file: /etc/netplan/10-my-config.yaml
