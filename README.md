@@ -12,7 +12,7 @@ Docker working<br/>
 Should only work on 16gb or bigger SD cards for now. <br/><br/>
 
 Link for the bootable img file:- <br/>
- https://drive.google.com/file/d/1L2WjS0dxRoa1DnCQSPVOcdJ9TGY8oc_i/view?usp=sharing<br/>
+https://drive.google.com/file/d/1No8VgwxtK12hOAy43CptYAd1jhNGOIve/view?usp=drivesdk <br/>
 
 flashing with Balena Etcher works. It might get stuck at 99%.<br/> 
 Don't worry, just wait it will finish eventually.<br/>
