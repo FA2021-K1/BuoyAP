@@ -8,6 +8,7 @@ Password : drone@12 <br/><br/>
 Current Status:-<br/>
 Access point working<br/>
 Docker working<br/>
+Static IP working<br/>
 
 Should only work on 16gb or bigger SD cards for now. <br/><br/>
 
