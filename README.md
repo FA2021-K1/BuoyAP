@@ -26,8 +26,8 @@ Also delete the Android and LOST.DIR folder from the system-boot folder. Will fi
 
 Also, if you want to ssh it, use BuoyAP access point. (Password: raspberry, username: ubuntu)
 
-path to netplan file: /etc/netplan/10-my-config.yaml
-path to dtoverlay file: /boot/firmware/usercfg.txt
+path to netplan file: /etc/netplan/10-my-config.yaml<br/>
+path to dtoverlay file: /boot/firmware/usercfg.txt<br/>
 
 ## Running the webservice on startup
 To run the webservice that is prebuilt in the provided image on startup of the Raspberry Pi use the [systemd script](./systemd/buoy-web-service.service) provided in the systemd directory.
