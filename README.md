@@ -16,7 +16,7 @@ Web service working<br/>
 Should only work on 16gb or bigger SD cards for now. <br/><br/>
 
 Link for the bootable img file:- <br/>
-https://drive.google.com/file/d/1FYLWUSEJTA-4YVmJ91kznJR3f1rcvLRz/view?usp=sharing<br/>
+https://drive.google.com/file/d/1zQAiUwXl3G1fC5QwYYrCmfeeEEZ_QyDm/view?usp=sharing<br/>
 
 flashing with Balena Etcher works. It might get stuck at 99%.<br/> 
 Don't worry, just wait it will finish eventually.<br/>
